@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "className": "f-print",
+    "img": "img/worksCard/card-1.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 2,
+    "className": "f-photo",
+    "img": "img/worksCard/card-2.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 3,
+    "className": " f-anim",
+    "img": "img/worksCard/card-3.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 4,
+    "className": "f-print",
+    "img": "img/worksCard/card-4.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 5,
+    "className": " f-anim",
+    "img": "img/worksCard/card-5.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 6,
+    "className": "f-photo",
+    "img": "img/worksCard/card-6.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 7,
+    "className": " f-anim",
+    "img": "img/worksCard/card-7.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 8,
+    "className": "f-photo",
+    "img": "img/worksCard/card-8.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 9,
+    "className": "f-print",
+    "img": "img/worksCard/card-9.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 10,
+    "className": "f-photo",
+    "img": "img/worksCard/card-10.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 11,
+    "className": "f-print",
+    "img": "img/worksCard/card-11.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 12,
+    "className": "f-print",
+    "img": "img/worksCard/card-12.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 13,
+    "className": "f-web",
+    "img": "img/worksCard/card-13.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 14,
+    "className": "f-web",
+    "img": "img/worksCard/card-14.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 15,
+    "className": "f-web",
+    "img": "img/worksCard/card-15.png",
+    "description": "Cards design"
+  },
+  {
+    "id": 16,
+    "className": "f-web",
+    "img": "img/worksCard/card-16.png",
+    "description": "Cards design"
+  }
+]
